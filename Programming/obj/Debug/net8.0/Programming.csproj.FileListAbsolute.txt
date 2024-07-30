@@ -1,0 +1,15 @@
+/Users/denysdudka/RiderProjects/Programming/Programming/bin/Debug/net8.0/Programming
+/Users/denysdudka/RiderProjects/Programming/Programming/bin/Debug/net8.0/Programming.deps.json
+/Users/denysdudka/RiderProjects/Programming/Programming/bin/Debug/net8.0/Programming.runtimeconfig.json
+/Users/denysdudka/RiderProjects/Programming/Programming/bin/Debug/net8.0/Programming.dll
+/Users/denysdudka/RiderProjects/Programming/Programming/bin/Debug/net8.0/Programming.pdb
+/Users/denysdudka/RiderProjects/Programming/Programming/obj/Debug/net8.0/Programming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denysdudka/RiderProjects/Programming/Programming/obj/Debug/net8.0/Programming.AssemblyInfoInputs.cache
+/Users/denysdudka/RiderProjects/Programming/Programming/obj/Debug/net8.0/Programming.AssemblyInfo.cs
+/Users/denysdudka/RiderProjects/Programming/Programming/obj/Debug/net8.0/Programming.csproj.CoreCompileInputs.cache
+/Users/denysdudka/RiderProjects/Programming/Programming/obj/Debug/net8.0/Programming.sourcelink.json
+/Users/denysdudka/RiderProjects/Programming/Programming/obj/Debug/net8.0/Programming.dll
+/Users/denysdudka/RiderProjects/Programming/Programming/obj/Debug/net8.0/refint/Programming.dll
+/Users/denysdudka/RiderProjects/Programming/Programming/obj/Debug/net8.0/Programming.pdb
+/Users/denysdudka/RiderProjects/Programming/Programming/obj/Debug/net8.0/Programming.genruntimeconfig.cache
+/Users/denysdudka/RiderProjects/Programming/Programming/obj/Debug/net8.0/ref/Programming.dll
